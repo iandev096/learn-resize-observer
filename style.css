@@ -1,0 +1,10 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+input[type='range'] {
+  position: fixed;
+  bottom: 20px;
+  width: 90%;
+}
